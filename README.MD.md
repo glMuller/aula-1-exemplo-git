@@ -13,7 +13,11 @@ Este é o meu primeiro repositório no GitHub. Estou começando minha jornada no
 - JavaScript
 - Git e GitHub
 
+<<<<<<< .merge_file_LYoSjQ
 ## XXXXXX
+=======
+## YYYYYYY
+>>>>>>> .merge_file_wI4Pa1
  
 Meu objetivo é me tornar um desenvolvedor web e criar projetos incríveis no futuro.
 
